@@ -30,7 +30,7 @@ REAL_APIS = {
         {"name": "AadhaarAPI1", "url": "https://devil.elementfx.com/api.php?key=DANGER&type=aadhaar_info&term={number}", "working": True},
     ],
     "family": [
-        {"name": "FamilyAPI1", "url": "https://devil.elementfx.com/api.php?key=DANGER&type=id_family&term={number}", "working": True},
+        {"name": "FamilyAPI1", "url": "https://atof.onrender.com/full-search?aadhaar={number}", "working": True},
     ],
     "telegram": [
         {"name": "TelegramAPI1", "url": "https://abhigyan-codes-tg-to-number-api.onrender.com/@abhigyan_codes/userid={number}", "working": True},
