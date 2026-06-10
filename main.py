@@ -12,8 +12,8 @@ from flask import Flask, request, jsonify
 
 # ==================== CONFIG ====================
 
-BOT_TOKEN = "8290734722:AAHk7uyZ7DgeeiJKYy7Zlp-sjblpClQNJAQ"
-ADMIN_ID = 7655738256
+BOT_TOKEN = "8602100882:AAFh51ivsoHpdrLPyUbAvtNl5w9tdzKSlYo"
+ADMIN_ID = 8406324025
 PORT = int(os.environ.get("PORT", 5000))
 MY_URL = os.environ.get("RENDER_URL", "https://api-wd7m.onrender.com")
 APIS_CONFIG_FILE = "apis_config.json"
