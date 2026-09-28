@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 from flask import Flask, request, jsonify
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "8602100882:AAFh51ivsoHpdrLPyUbAvtNl5w9tdzKSlYo"
+BOT_TOKEN = "8602100882:AAH18wJO2L3udx61BDL1xwcPEsu7Yz8hXNE"
 ADMIN_ID = 8406324025
 PORT = int(os.environ.get("PORT", 5000))
 MY_URL = os.environ.get("RENDER_URL", "https://api-wd7m.onrender.com")
